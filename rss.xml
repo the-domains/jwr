@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[WoW]]></title>
         <description><![CDATA[WoW]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jwr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 13:52:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 13:52:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jwr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lords of War Part One - Kargath]]></title>
+            <description><![CDATA[<article><h1>Lords of War Part One - Kargath</h1><p>Before Kargath was a warlord, he was a slave. Before he ruled the Shattered Hand, he was a gladiator. Before he found deliverance, he sought vengeance. Take your place on the front lines of the battle for Draenor 11.13.14. For more information, visit http://Warlords.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a16a64ff486f8cf731821358c512c43/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLG3RVCEwCPg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=LG3RVCEwCPg</link>
+            <guid isPermaLink="false">40c0173c-0dfd-4bcc-904c-4af0d8845aa6</guid>
+            <pubDate>Thu, 18 Aug 2016 13:52:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lords of War Part Four - Kilrogg]]></title>
             <description><![CDATA[<article><h1>Lords of War Part Four - Kilrogg</h1><p>The Bleeding Hollow clan once stood on the verge of extinction. To escape death, Kilrogg Deadeye first needed to embrace it. Take your place on the front lines of the battle for Draenor 11.13.14. For more information, visit http://Warlords.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81fb7c7b581fee3bf14af1ea60ec39c4/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FfRlokbOelfg%2Fmaxresdefault.jpg"></article>]]></description>
