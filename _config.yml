@@ -1,4 +1,3 @@
-layout_spectrum: 0.9606034730095416
 typography_spectrum: 0.8983810457866639
 color:
   brandStrength: 0.9919398780912161
@@ -6,9 +5,11 @@ color:
   saturation: 0.9999770205467939
   rhythmicContrast: 0.6453212664928287
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+layout_spectrum: 0.9606034730095416
 name: JWR
+title: WoW
