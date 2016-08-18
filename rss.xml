@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WoW]]></title>
+        <description><![CDATA[WoW]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 13:52:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lords of War Part Four - Kilrogg]]></title>
+            <description><![CDATA[<article><h1>Lords of War Part Four - Kilrogg</h1><p>The Bleeding Hollow clan once stood on the verge of extinction. To escape death, Kilrogg Deadeye first needed to embrace it. Take your place on the front lines of the battle for Draenor 11.13.14. For more information, visit http://Warlords.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81fb7c7b581fee3bf14af1ea60ec39c4/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FfRlokbOelfg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fRlokbOelfg</link>
+            <guid isPermaLink="false">cb598351-df71-46ab-9041-8594af4f6642</guid>
+            <pubDate>Thu, 18 Aug 2016 13:52:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
